@@ -458,6 +458,7 @@
     left: 50%;
     transform: translateX(-50%);
     top: 80px;
+    width: 389px;
 }
 
 .third_area__list {
